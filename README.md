@@ -7,7 +7,7 @@ Tools bot tulis
 
 <p align="left">
 
-<a href="#"><img title="Author by Tegar Sabila & Teguh Sabila" src="https://img.shields.io/badge/AUTHOR%20BY-TEGAR%20SABILA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="Author By RazzorBack" src=""></a> 
 <p align="center"> 
 <a href="https://github.com/kelas-kode/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/kelas-kode?color=blue&style=flat-square"></a>
@@ -31,8 +31,8 @@ $ apt update && apt upgrade
 $ apt install python
 $ apt install git
 $ apt install requests
-$ git clone https://github.com/kelas-kode/Bot_tulis
-$ cd Bot_tulis
+$ git clone https://github.com/SadBoy86/Bot-Tulis
+$ cd Bot-Tulis
 $ python3 bot.py
 ``` 
 
@@ -45,10 +45,6 @@ import os # untuk membersihkan layar
 ```
 
 ## Screenshots
-+ cara menggunakan
-![template_s](https://github.com/kelas-kode/Bot_tulis/blob/main/Screenshot_20210226-044749373~01.jpg) 
-+ hasilnya
-![template_s](https://github.com/kelas-kode/Bot_tulis/blob/main/f2adb4945cff.jpg)
 <br>
 <p align="center">
 ©Copyright Kelas Kode
